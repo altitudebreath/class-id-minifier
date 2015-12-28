@@ -33,8 +33,5 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/altitudebreath/class-id-minifier-ns.git"
-  },
-  "scripts": {
-    "publish": "git push origin"
   }
 }
