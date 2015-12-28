@@ -1,10 +1,14 @@
 {
-  "name": "class-id-minifier",
+  "name": "class-id-minifier-ns",
   "version": "0.4.0",
-  "description": "minify class and id attribute in html",
-  "author": "yiminghe <yiminghe@gmail.com>",
+  "description": "minify class and id attribute in html - with namespace",
+  "author": "altitudebreath <altitudebreath@gmail.com>",
+  "contributors": [{
+     "name": "yiminghe",
+     "email": "yiminghe@gmail.com"
+  }],
   "bugs": {
-    "url": "https://github.com/yiminghe/class-id-minifier"
+    "url": "https://github.com/altitudebreath/class-id-minifier-ns"
   },
   "engines": {
     "node": ">=0.8.0"
@@ -28,7 +32,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/yiminghe/Sugar.git"
+    "url": "git://github.com/altitudebreath/class-id-minifier-ns.git"
   },
   "scripts": {
     "publish": "git push origin"
